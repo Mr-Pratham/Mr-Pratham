@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mr-Pratham
 - 👀 I’m interested in Coding and Gaming.
-- 🌱 I’m currently learning Software & Web Development.
+- 🌱 I’m currently a IT undergrad & also learning Web Development.
 - 💞️ I’m looking to collaborate on any coding projects realted to c/c++,java,python and web developement projects.
 
 <!---
