@@ -1,6 +1,7 @@
 
 - 👋 Hi, I’m Pratham
-![Solo Leveling 2](https://user-images.githubusercontent.com/83241608/236195145-e9679ac9-988d-4c8e-8f64-7b3af8738992.gif)
+- 
+![Solo Leveling 2](https://user-images.githubusercontent.com/83241608/236195774-7642b469-4edd-416c-9ff1-556f50383793.gif)
 
 - 👀 I’m interested in Web Development and Mobile Gaming.
 - 🌱 I’m currently a IT undergrad & also learning Web Development.
