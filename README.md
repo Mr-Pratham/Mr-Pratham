@@ -1,12 +1,11 @@
 
 ![Calming HD Rain Gifs](https://user-images.githubusercontent.com/83241608/236197410-ade7d532-a4f3-40a7-ab39-53642bfd499e.gif)
-
+<h3 align="center">About Me</h3>
 - 👋 Hi, I’m Pratham
 - 👀 I’m interested in Web Development and Mobile Gaming.                                       
 - 🌱 I’m currently a IT undergrad & also learning Web Development.
 - 💞️ I’m looking to collaborate on any coding projects realted to c/c++,java,python and web developement projects.
 
-<h3 align="center">WEB DEVELOPER</h3>
 
 <h3 align="left">Find Me:</h3>
 <p align="left">
@@ -19,7 +18,7 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mr-pratham&show_icons=true&locale=en" alt="mr-pratham" />
 <img align="right" src="https://user-images.githubusercontent.com/83241608/236199644-75dc61b3-2508-47d9-99ef-a6bbff4daa97.gif" alt="mr-pratham"</p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-pratham&" alt="mr-pratham"></p>
+<p><img align="=" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-pratham&" alt="mr-pratham"></p>
 
 <!---
 Mr-Pratham/Mr-Pratham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
