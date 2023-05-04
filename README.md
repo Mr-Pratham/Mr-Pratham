@@ -2,7 +2,7 @@
 ![Calming HD Rain Gifs](https://user-images.githubusercontent.com/83241608/236197410-ade7d532-a4f3-40a7-ab39-53642bfd499e.gif)
 
 - 👋 Hi, I’m Pratham
-- 👀 I’m interested in Web Development and Mobile Gaming.
+- 👀 I’m interested in Web Development and Mobile Gaming.                                       ![Solo Leveling 2](https://user-images.githubusercontent.com/83241608/236199644-75dc61b3-2508-47d9-99ef-a6bbff4daa97.gif)
 - 🌱 I’m currently a IT undergrad & also learning Web Development.
 - 💞️ I’m looking to collaborate on any coding projects realted to c/c++,java,python and web developement projects.
 
