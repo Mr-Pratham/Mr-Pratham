@@ -17,9 +17,7 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mr-pratham&show_icons=true&locale=en" alt="mr-pratham"></p>
 <p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-pratham&" alt="mr-pratham"></p>
 
-<p>&nbsp;<img align="left" src="https://user-images.githubusercontent.com/83241608/236316415-7e05e748-6461-47cb-8be9-bee675ea89b5.gif" alt="tom" </p>
-
-<!---
+<!--<p>&nbsp;<img align="left" src="https://user-images.githubusercontent.com/83241608/236316415-7e05e748-6461-47cb-8be9-bee675ea89b5.gif" alt="tom" </p>
 Mr-Pratham/Mr-Pratham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
