@@ -2,7 +2,7 @@
 ![Calming HD Rain Gifs](https://user-images.githubusercontent.com/83241608/236197410-ade7d532-a4f3-40a7-ab39-53642bfd499e.gif)
 - 👋 Hi, I’m Pratham
 - 👀 I’m interested in SQL & Web Development.                                       
-- 🌱 I’m currently a IT undergrad.
+- 🌱 I’m currently my Final Semester of undergraduate degree.
 - 💞️ I’m looking to collaborate on any coding projects realted to c/c++,SQL & any web developement projects.
 
 <h3 align="left">Find Me:</h3>
